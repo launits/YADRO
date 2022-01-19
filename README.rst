@@ -1,3 +1,22 @@
+Personal information
+=================================
+**Name**	Michail Kozinsky
+
+**Address**	Saints-Petersburg
+
+**Phone number**	+7-911-916-##-##
+
+**Date of birth**	##.##.##.####
+
+**Email**	michailkozinsky@gmail.com
+
+
+
+
+
+
+
+
 Template for the Read the Docs tutorial
 =======================================
 
